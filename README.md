@@ -1,2 +1,3 @@
-# up disini file pembelajaran ku pada javscript 
+# BELAJAR FUNDAMENTAL JAVSCRIPT 
+up disini file pembelajaran ku pada javscript
 siapa tau ada yang mau juga buat bahan belajar 
